@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\approject\approject\bin\Debug\approject.exe.config
+\\Mac\Home\Desktop\approject\approject\bin\Debug\approject.exe
+\\Mac\Home\Desktop\approject\approject\bin\Debug\approject.pdb
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\approject\approject\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\approject\approject\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject_MarkupCompile.cache
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject_MarkupCompile.lref
+\\Mac\Home\Desktop\approject\approject\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject.g.resources
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject.Properties.Resources.resources
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject.exe
+\\Mac\Home\Desktop\approject\approject\obj\Debug\approject.pdb
